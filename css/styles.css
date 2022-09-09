@@ -305,7 +305,7 @@ ul {
 }
 
 .hero-button {
-    border: transparent;
+    border-color: transparent;
     border-radius: 4px;
     display: block;
     margin-left: auto;
